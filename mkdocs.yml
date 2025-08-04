@@ -35,7 +35,7 @@ extra:
   rda_bagpack: http://doi.org/10.15497/RDA00025
   datacite_4_0: https://schema.datacite.org/meta/kernel-4.0/
   levels_of_obligation: https://datacite-metadata-schema.readthedocs.io/en/latest/properties/overview/#levels-of-obligation
-  dans_bagpack_bagit_profile: http://doi.org/10.15497/RDA00025
+  dans_bagpack_bagit_profile: https://doi.org/10.17026/e948-0r32
 
 plugins:
   - markdownextradata
