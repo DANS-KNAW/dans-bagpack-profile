@@ -25,6 +25,7 @@ nav:
   - Welcome: index.md
   - Current versions:
     - v0.1.0: versions/0.1.0.md
+    - v1.0.0: versions/1.0.0.md
   - Archived versions: versions/archived/index.md
   - Context:
     - ⇒ DANS Data Station Architecture: arch.md
