@@ -1,7 +1,7 @@
 Welcome
 =======
 
-This site documents contains the *DANS BagPack Profile* specifications. This is a document that specifies the 
+This site documents contains the *DANS BagPack Profile* specifications. A DANS BagPack is a BagPack as specified by the Research Data Alliance (RDA) with extra requirements added by DANS.
 
 * [v0.1.0](versions/0.1.0.md) - CURRENT VERSION - simplified rules for the DANS BagPack Profile produced by the Data Stations and dd-vault-ingest.
 * [v1.0.0](versions/1.0.0.md) - FUTURE VERSION - robust rules for the DANS BagPack Profile produced by the Data Stations and dd-vault-ingest.
