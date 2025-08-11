@@ -1,12 +1,12 @@
 {
 
   "BagIt-Profile-Info": {
-    "BagIt-Profile-Identifier": "",
+    "BagIt-Profile-Identifier": "https://doi.org/10.17026/e948-0r32",
     "Source-Organization": "dans.knaw.nl",
     "Contact-Name": "DANS-KNAW",
     "Contact-Email": "info@dans.knaw.nl",
     "External-Description": "DANS BagPack Profile",
-    "Version": "0.1.0"
+    "Version": "1.0.0"
   },
   "Bag-Info": {
     "Bagging-Date": {
