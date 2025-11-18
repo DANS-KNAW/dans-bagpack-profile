@@ -13,7 +13,7 @@
       "required": true
     },
     "Source-Organization": {
-      "required": false
+      "required": true
     },
     "Contact-Name": {
       "required": true
