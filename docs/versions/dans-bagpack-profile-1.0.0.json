@@ -28,7 +28,10 @@
       "required": false
     },
     "External-Description": {
-      "required": false
+      "required": true
+    },
+    "Internal-Sender-Identifier": {
+      "required": true
     },
     "Bag-Size": {
       "required": true
