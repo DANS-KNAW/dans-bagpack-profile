@@ -27,8 +27,7 @@ nav:
     - v0.1.0: versions/0.1.0.md
     - v1.0.0: versions/1.0.0.md
   - Archived versions: versions/archived/index.md
-  - Context:
-    - ⇒ DANS Data Station Architecture: arch.md
+  - Context: context.md
 
 extra:
   rfc_2119: https://www.ietf.org/rfc/rfc2119.txt

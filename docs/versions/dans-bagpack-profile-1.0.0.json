@@ -25,7 +25,7 @@
       "required": true
     },
     "External-Identifier": {
-      "required": true
+      "required": false
     },
     "External-Description": {
       "required": false
@@ -46,9 +46,7 @@
   "Allow-Fetch.txt": false,
   "Serialization": "optional",
   "Accept-Serialization": [
-    "application/zip",
-    "application/tar",
-    "application/tar+gzip"
+    "application/zip"
   ],
   "Accept-BagIt-Version": [
     "1.0"
