@@ -37,6 +37,8 @@ extra:
   datacite_4_0: https://schema.datacite.org/meta/kernel-4.0/
   levels_of_obligation: https://datacite-metadata-schema.readthedocs.io/en/latest/properties/overview/#levels-of-obligation
   dans_bagpack_bagit_profile: https://doi.org/10.17026/e948-0r32
+  dans_data_vault_metadata_block: https://docs.google.com/spreadsheets/d/1M0mefIC3VoXgQr-N_HlZlA6FAi_A_FAzbfCzngEEi3o/?gid=9637200#gid=9637200
+  schema_org: https://schema.org/
 
 plugins:
   - markdownextradata
