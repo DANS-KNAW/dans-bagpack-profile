@@ -54,9 +54,7 @@
   "Accept-BagIt-Version": [
     "1.0"
   ],
-  "Tag-Manifests-Required": [
-    "sha1"
-  ],
+  "Tag-Manifests-Required": [],
   "Tag-Files-Required": [
     "metadata/datacite.xml",
     "metadata/pid-mapping.txt",
