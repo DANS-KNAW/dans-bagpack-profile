@@ -13,7 +13,7 @@
       "required": true
     },
     "Contact-Name": {
-      "required": true
+      "required": false
     },
     "Contact-Email": {
       "required": true
