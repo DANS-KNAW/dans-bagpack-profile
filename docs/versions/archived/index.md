@@ -1,4 +1,4 @@
 Archived versions
 =================
 
-No archived versions yet.
+* [Version 0.1.0](0.1.0.md)

@@ -24,14 +24,16 @@ repo_url: https://github.com/DANS-KNAW/dans-bagpack-profile
 nav:
   - Welcome: index.md
   - Current versions:
-    - v0.1.0: versions/0.1.0.md
     - v1.0.0: versions/1.0.0.md
-  - Archived versions: versions/archived/index.md
-  - Context: context.md
+  - Archived versions:
+    - v0.1.0: versions/archived/0.1.0.md
+  - Context:
+    - About: context.md
 
 extra:
   rfc_2119: https://www.ietf.org/rfc/rfc2119.txt
   bagit: https://www.rfc-editor.org/rfc/rfc8493
+  bagit_0_97: https://digitalpreservation.gov/documents/bagitspec.pdf
   rda_bagpack: http://doi.org/10.15497/RDA00025
   datacite_4_0: https://schema.datacite.org/meta/kernel-4.0/
   levels_of_obligation: https://datacite-metadata-schema.readthedocs.io/en/latest/properties/overview/#levels-of-obligation
