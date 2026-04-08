@@ -25,7 +25,9 @@ nav:
   - Welcome: index.md
   - Current versions:
     - v1.0.0: versions/1.0.0.md
+    - v1.1.0: versions/1.1.0.md
   - Archived versions:
+    - Overview: versions/archived/index.md
     - v0.1.0: versions/archived/0.1.0.md
   - Context:
     - About: context.md
@@ -33,6 +35,7 @@ nav:
 extra:
   rfc_2119: https://www.ietf.org/rfc/rfc2119.txt
   bagit: https://www.rfc-editor.org/rfc/rfc8493
+  fetch_txt: https://www.rfc-editor.org/rfc/rfc8493#section-2.2.3
   bagit_0_97: https://digitalpreservation.gov/documents/bagitspec.pdf
   rda_bagpack: http://doi.org/10.15497/RDA00025
   datacite_4_0: https://schema.datacite.org/meta/kernel-4.0/
