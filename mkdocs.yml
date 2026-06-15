@@ -24,13 +24,13 @@ repo_url: https://github.com/DANS-KNAW/dans-bagpack-profile
 nav:
   - Welcome: index.md
   - Current versions:
-    - v1.0.0: versions/1.0.0.md
-    - v1.1.0: versions/1.1.0.md
+      - v1.1.0: versions/1.1.0.md
   - Archived versions:
-    - Overview: versions/archived/index.md
-    - v0.1.0: versions/archived/0.1.0.md
+      - Overview: versions/archived/index.md
+      - v1.0.0: versions/archived/1.0.0.md
+      - v0.1.0: versions/archived/0.1.0.md
   - Context:
-    - About: context.md
+      - About: context.md
 
 extra:
   rfc_2119: https://www.ietf.org/rfc/rfc2119.txt

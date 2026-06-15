@@ -6,8 +6,7 @@ requirements added by DANS.
 
 Current version:
 
-* [DANS BagPack Profile v1.1.0](versions/1.1.0.md) (DRAFT)
-* [DANS BagPack Profile v1.0.0](versions/1.0.0.md) (PUBLISHED)
+* [DANS BagPack Profile v1.1.0](versions/1.1.0.md) (PUBLISHED)
 
 Archived versions, see [here](versions/archived/index.md). 
 
